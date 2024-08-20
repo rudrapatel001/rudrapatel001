@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
-<h3 align="center">A passionate Data Analyst Engineer</h3>
+<h3 align="center">A passionate Data Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapatel001&label=Profile%20views&color=0e75b6&style=flat" alt="rudrapatel001" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rudra7042004@gmail.com**
 
-- ⚡ Fun fact **I love drawing fictional characters**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
