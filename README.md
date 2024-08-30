@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love to Draw Fictional Characters in my free time**
 
-- Portfolio <a src"https://rudrapatel001.github.io/My_Portfolio/">Rudra Patel</a>
+- Portfolio: https://rudrapatel001.github.io/My_Portfolio/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra_patel_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-patel-515441242) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudrapatel7554) 
