@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rudra7042004@gmail.com**
 
-- ⚡ Fun fact **I love to Draw Fictional Characters in my free time**
-
 - Portfolio: https://rudrapatel001.github.io/My_Portfolio/
 
 ## 🌐 Socials:
