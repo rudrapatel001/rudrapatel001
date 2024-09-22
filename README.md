@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rudra7042004@gmail.com**
 
-- Portfolio: https://rudrapatel001.github.io/My_Portfolio/
+- Portfolio: https://rudrapatel001.github.io/RudraPatel/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra_patel_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-patel-515441242) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudrapatel7554) 
