@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
 <h3 align="center">A passionate Data Science Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning python libraries, framework
 
 - 📫 How to reach me **rudra7042004@gmail.com**
 
